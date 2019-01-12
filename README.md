@@ -1,2 +1,2 @@
 # gulp4
-Bootstrap Sass, Font Awesome 5 Sass, Gulp
+Projeto base com Bootstrap Sass, Font Awesome 5 Sass, Gulp
