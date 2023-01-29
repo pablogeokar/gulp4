@@ -16,7 +16,7 @@
     "vue": "^2.5.22"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.3",
+    "browser-sync": "^2.27.11",
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-htmlmin": "^5.0.1",
